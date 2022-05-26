@@ -15,13 +15,13 @@ Theme Name: Jason Stroff
 ----------------------------------------------------------------*/
 html {
 	font-family: 'Inter', sans-serif;
-	background-color: #e8ebf6
+	background-color: #EFE5FD
 }
 
 body {
 	font-family: 'Inter', sans-serif;
 	overflow-x: hidden;
-	background-color: #e8ebf6;
+	background-color: #EFE5FD;
 	font-weight: 400;
 	font-style: normal;
 	color: #373737;
@@ -124,7 +124,7 @@ img {
 	top: 0;
 	width: 100%;
 	z-index: 5;
-	background-color: #c4ccea;
+	background-color: #CBC1E7;
 	padding: 70px 0;
 	transition-delay: 0s;
 	transition-duration: 0.4s;
@@ -174,7 +174,7 @@ img {
 }
 
 .logo:hover {
-	color: #e8ebf6;
+	color: #00188D;
 }
 
 .ds-social {
@@ -197,7 +197,7 @@ img {
 	color: #FFF;
 	width: 24px;
 	height: 24px;
-	background-color: #9dacdc;
+	background-color: #00188D;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -224,7 +224,7 @@ img {
 
 
 .header {
-	background-color: #c4ccea;
+	background-color: #A998D7;
 	box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
 	position: absolute;
 	align-items: center;
@@ -239,20 +239,20 @@ img {
 	font-family:Georgia, 'Times New Roman', Times, serif;
 	list-style: none;
 	overflow: hidden;
-	background-color: #c4ccea;
+	background-color: #fff;
   }
   
   .header li a {
 	display: block;
 	padding: 20px 20px;
-	border-right: 1px solid #c4ccea;
+	border-right: 1px solid #876FC8;
 	text-decoration: none;
   }
   
   .header li a:hover,
   .header .menu-btn:hover {
-	background-color: #e8ebf6;
-	color: #9dacdc;
+	background-color: #876FC8;
+	color: #00188D;
   }
   
   .header .logo {
@@ -400,7 +400,7 @@ img {
 
 .ds-numbervalulist strong {
 	display: block;
-	color: #c4ccea;
+	color: #00188D;
 	font-size: 36px;
 	font-weight: 800;
 }
@@ -425,7 +425,7 @@ img {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	font-size: 16px;
-	border-bottom: 3px solid #9dacdc;
+	border-bottom: 3px solid #00188D;
 	padding-bottom: 7px;
 	margin-bottom: 23px;
 }
@@ -437,7 +437,7 @@ img {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	font-size: 16px;
-	border-bottom: 3px solid #9dacdc;
+	border-bottom: 3px solid #00188D;
 	padding-bottom: 7px;
 	margin-bottom: 23px;
 }
@@ -457,14 +457,14 @@ img {
 	line-height: 13px;
 	font-weight: 600;
 	letter-spacing: 3px;
-	color: #9dacdc;
+	color: #00188D;
 	padding: 17px 30px;
-	border: 2px solid #9dacdc;
+	border: 2px solid #00188D;
 	border-radius: 60px;
 }
 
 .ds-button:hover {
-	background-color: #9dacdc;
+	background-color: #00188D;
 	color: #FFF;
 }
 
@@ -495,7 +495,7 @@ img {
 	color: #373737;
 	font-size: 16px;
 	padding: 10px 20px;
-	background-color: #c4ccea;
+	background-color: #FFF;
 	border: 1px solid #D7D7D7;
 	border-radius: 27px;
 	margin-right: 15px;
@@ -723,7 +723,7 @@ span.ds-department {
 }
 
 .ds-copyright a:hover {
-	color: #9dacdc;
+	color: #00188D;
 }
 
 
@@ -917,9 +917,9 @@ form {
 
 input:focus {
     outline: none;
-      border: 2px solid #9dacdc;
+      border: 2px solid #00188D;
   }
 
   .link a:hover {
-	color: #9dacdc;
+	color: #00188D;
 }

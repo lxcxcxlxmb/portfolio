@@ -15,13 +15,13 @@ Theme Name: Jason Stroff
 ----------------------------------------------------------------*/
 html {
 	font-family: 'Inter', sans-serif;
-	background-color: #e8ebf6
+	background-color: #EFE5FD
 }
 
 body {
 	font-family: 'Inter', sans-serif;
 	overflow-x: hidden;
-	background-color: #e8ebf6;
+	background-color: #EFE5FD;
 	font-weight: 400;
 	font-style: normal;
 	color: #373737;
@@ -174,7 +174,7 @@ img {
 }
 
 .logo:hover {
-	color: #e8ebf6;
+	color: #9dacdc;
 }
 
 .ds-social {
@@ -495,7 +495,7 @@ img {
 	color: #373737;
 	font-size: 16px;
 	padding: 10px 20px;
-	background-color: #c4ccea;
+	background-color: #CFC4EA;
 	border: 1px solid #D7D7D7;
 	border-radius: 27px;
 	margin-right: 15px;
